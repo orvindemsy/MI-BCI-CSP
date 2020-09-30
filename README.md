@@ -11,7 +11,9 @@ One significant step in brain-computer interface (BCI) signal processing is feat
 
 [2] C. Brunner, R. Leeb, G. Mller-Putz, A. Schlögl and G. Pfurtscheller, “BCI Competition 2008 Graz Data Set a”, 2008.
 
-### Footnote
+
+
+#### Footnote
 * develop folder contains previous version of CSP code, might be deleted later
 * the code is still in progress, need to work on how to evaluate on test dataset
 * BCICIVC2a stands for BCI Competition IV dataset 2a
