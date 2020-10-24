@@ -12,7 +12,11 @@ Train score | Test score
 :----------:|:----------:
 ![5fold_train_result.jpg](./images/5fold_train_result.jpg)|![5fold_test_result.jpg](./images/5fold_test_result.jpg)
 
+Next, randomized search method is used to tune hyperparameters, the model with best hyperparameters is evaluated on same train and test dataset
 
+Train score | Test score
+:----------:|:----------:
+![5fold_train_result.jpg](./images/5fold_train_result_rndsrc.jpg)|![5fold_test_result.jpg](./images/5fold_test_result_rndsrc.jpg)
 
 ## References
 [1] B. Blankertz, R. Tomioka, S. Lemm, M. Kawanabe and K. Muller, "Optimizing Spatial filters for Robust EEG Single-Trial Analysis," in IEEE Signal Processing Magazine, vol. 25, no. 1, pp. 41-56, 2008, doi: 10.1109/MSP.2008.4408441.
