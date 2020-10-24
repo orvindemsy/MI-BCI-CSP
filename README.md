@@ -4,7 +4,8 @@
 One significant step in brain-computer interface (BCI) signal processing is feature extraction, in motor-imagery (MI) paradigm a commonly used method is called common-spatial pattern (CSP). This is my implementation of CSP algorithm on BCI dataset IV 2a. The algorithm implemented in this code is based on [1], details of the dataset can be seen on [2]
 
 ## Result
-SVM model with scikit-learn default configuration is used to evaluate training data, then this model is used to evaluate score on test data
+SVM model with scikit-learn default configuration is used to evaluate training data, then this model is used to evaluate score on test data  
+
 ![5fold_train_result.jpg](./images/5fold_train_result.jpg) ![5fold_test_result.jpg](./images/5fold_test_result.jpg)
 
 
