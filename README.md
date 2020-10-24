@@ -6,7 +6,11 @@ One significant step in brain-computer interface (BCI) signal processing is feat
 ## Result
 SVM model with scikit-learn default configuration is used to evaluate training data, then this model is used to evaluate score on test data  
 
-![5fold_train_result.jpg](./images/5fold_train_result.jpg) ![5fold_test_result.jpg](./images/5fold_test_result.jpg)
+
+
+Train score | Test score
+:----------:|:----------:
+![5fold_train_result.jpg](./images/5fold_train_result.jpg)|![5fold_test_result.jpg](./images/5fold_test_result.jpg)
 
 
 
